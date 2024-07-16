@@ -11,6 +11,6 @@ Anyway, this post is not even about Okai. I just wanted to explain how I ended u
 
 Nonetheless, the whole point of this post in to share this one picture. The IWP organized English classes for those writers who did not speak English very well. In Paul Engle's Papers, I found various materials on these classes. And this dialogue is my favorite! I wish we studied something similar in my high school! Enjoy!
 
-![slang](/olyanechaeva.github.io/assets/img/English_slang.jpg)
+![slang](/olyanechaeva.github.io/assets/img/English_slang.jpeg)
 
 Source:  University of Iowa Special Collections, MsC0514, Paul Engle Papers, Box 26.
