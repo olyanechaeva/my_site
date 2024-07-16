@@ -11,7 +11,7 @@ nav_order: 5
 
 ##### Spring 2024
 - *RUSS 004 Intermediate Intensive Russian* (Visiting Instructor, co-taught with Tsvetelina Yordanova). Swarthmore College. Swarthmore, PA. [Syllabus](https://olyanechaeva.github.io/assets/pdf/Spring_2024_RUSS004.pdf)
-- *RUSS 107. Russia and Its Others* (Guest Instructor). Class on Black Writers in the USSR: Gaoussou Diawara, Atukwei Okai, and James Lloydovich Patterson. Swarthmore College. Reading for the Class.
+- *RUSS 107. Russia and Its Others* (Guest Instructor). Class on Black Writers in the USSR: Gaoussou Diawara, Atukwei Okai, and James Lloydovich Patterson. Swarthmore College. [Reading for the Class](https://olyanechaeva.github.io/assets/pdf/Readings_March22.pdf)
 
 ##### Summer 2022
 - *Enhanced Intermediate Russian* (Instructor, co-taught with [Tom Dolack](https://wheatoncollege.edu/academics/faculty-directory/dolack-thomas/) and [Julia Katsnelson](https://www.uvm.edu/cas/germanrussian/profiles/julia-katsnelson)). Middlebury College. Middlebury Language Schools. Middlbery, VT.
