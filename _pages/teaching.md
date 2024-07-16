@@ -10,7 +10,7 @@ nav_order: 5
 ### Russian Language Courses
 
 ##### Spring 2024
-- *RUSS 004 Intermediate Intensive Russian* (Visiting Instructor, co-taught with). Swarthmore College. Swarthmore, PA. [Syllabus](https://olyanechaeva.github.io/assets/pdf/Spring_2024_RUSS004.pdf)
+- *RUSS 004 Intermediate Intensive Russian* (Visiting Instructor, co-taught with Tsvetelina Yordanova). Swarthmore College. Swarthmore, PA. [Syllabus](https://olyanechaeva.github.io/assets/pdf/Spring_2024_RUSS004.pdf)
 
 ##### Summer 2022
 - *Enhanced Intermediate Russian* (Instructor, co-taught with [Tom Dolack](https://wheatoncollege.edu/academics/faculty-directory/dolack-thomas/) and [Julia Katsnelson](https://www.uvm.edu/cas/germanrussian/profiles/julia-katsnelson)). Middlebury College. Middlebury Language Schools. Middlbery, VT.
@@ -31,6 +31,9 @@ Higher School of Economics. Moscow, Russia. [Syllabus](https://olyanechaeva.gith
 
 ### Literature Courses
 
+##### Fall 2024
+- *REES 0410 Masterpieces of 19C Russian Literature* (Instructor). University of Pennsylvania. Philadelphia, PA.
+- 
 ##### Summer 2020
 - *REES-145 Masterpieces of 19C Russian Literature* (Instructor). University of Pennsylvania. Philadelphia, PA.
 [Syllabus](https://olyanechaeva.github.io/assets/pdf/REES%20145.pdf)
@@ -44,11 +47,14 @@ Higher School of Economics. Moscow, Russia. [Syllabus](https://olyanechaeva.gith
 ##### Fall 2017
 - *War in 20C European Literature* (TA for [Elena Ostrovskaya](https://www.hse.ru/en/org/persons/34803711)). National Research University Higher School of Economics. Moscow, Russia.
 
+### Writing Courses
+- *English Writing: Place and Belonging* (Instructor). Pre-First Year Program. University of Pennsylvania.
+
 ### Economics Courses
 
 ##### 2015-2018 
-- *Introduction to Macroeconomics.* National Research University Higher School of Economics. International College of Economics and Finance. Moscow, Russia.
-- B.Sc. Term Paper Advisor. National Research University Higher School of Economics. International College of Economics and Finance. Moscow, Russia. Topics:
+- *Introduction to Macroeconomics.* International College of Economics and Finance. National Research University Higher School of Economics. Moscow, Russia.
+- B.Sc. Term Paper Advisor. International College of Economics and Finance. National Research University Higher School of Economics. Moscow, Russia. Topics:
    - Monetary Policy in Russia and the Financial Crisis 2008.
    - Russian Stock Market Performance and Risk.
    - Stock Correlation in the Constructed Portfolio: Analysis of Russian Stock Market.
