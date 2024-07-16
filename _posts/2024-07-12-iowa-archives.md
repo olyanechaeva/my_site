@@ -10,3 +10,7 @@ I came to Iowa to find more information on [Atukwei Okai](https://en.wikipedia.o
 Anyway, this post is not even about Okai. I just wanted to explain how I ended up going to Iowa and working with Paul Engle's Papers. I found there soooo much interesting stuff. The International Writing Program was unique! Yes, the Gorky Institute also invited foreign writers, but the scope of this activity was more than modest. On the contrary, the IWP hosted about 30-35 writers every year. Of course, I am not a specialist on American literature, and I probably won't write myself about the IWP, but I hope that more researchers will get interested in this topic. For now, I am really excited to read the book *University of Literature* by [Loren Glass](https://english.uiowa.edu/people/loren-glass), one chapter of which is devoted to the IWP. I hope the book will come out soon! 
 
 Nonetheless, the whole point of this post in to share this one picture. The IWP organized English classes for those writers who did not speak English very well. In Paul Engle's Papers, I found various materials on these classes. And this dialogue is my favorite! I wish we studied something similar in my high school! Enjoy!
+
+![slang](/olyanechaeva.github.io/assets/img/English_slang.jpg)
+
+Source:  University of Iowa Special Collections, MsC0514, Paul Engle Papers, Box 26.
