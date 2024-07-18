@@ -51,6 +51,8 @@ Higher School of Economics. Moscow, Russia. [Syllabus](https://olyanechaeva.gith
 - *War in 20C European Literature* (TA for [Elena Ostrovskaya](https://www.hse.ru/en/org/persons/34803711)). National Research University Higher School of Economics. Moscow, Russia.
 
 ### Writing Courses
+
+##### Summer 2024
 - *English Writing: Place and Belonging* (Instructor). Pre-First Year Program. University of Pennsylvania.
 
 ### Economics Courses
