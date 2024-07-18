@@ -7,7 +7,7 @@ subtitle: <a href='https://complit.sas.upenn.edu/people/olga-nechaeva'>CompLit</
 profile:
   align: right
   image: prof_pic_small.jpg
-  image_circular: false
+  image_circular: true
   address: >
     <p>720 Williams Hall, University of Pennsylvania</p>
     <p>255 S. 36th Street</p>
